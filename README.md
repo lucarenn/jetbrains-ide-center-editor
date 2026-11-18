@@ -1,4 +1,4 @@
-In most JetBrains IDE's the code is aligned on the very left. Only in distraction free and Zen mode the code is centered. Since there seems to be no setting, with this small live plugin the code can be centered also in the default view mode. 
+In most JetBrains IDE's the code is aligned on the very left. Only in Distraction Free Mode and Zen Mode the code is centered. Since there seems to be no setting, with this small live plugin the code can be centered also in the default view mode. 
 
 ### How to apply 
 1. Install [LivePlugin](https://plugins.jetbrains.com/plugin/7282-liveplugin) by Dmitry Kandalov via the Marketplace (File -> Settings -> Plugins). Restart the IDE if it asks you
